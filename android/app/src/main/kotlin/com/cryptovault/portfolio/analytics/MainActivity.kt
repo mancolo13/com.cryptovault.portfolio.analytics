@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.cryptovault.portfolio.analytics
 
 import io.flutter.embedding.android.FlutterActivity
 
